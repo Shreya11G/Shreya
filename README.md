@@ -1,4 +1,4 @@
 # Shreya
 this is my first reposetory
 <br>
-Author -shreya gupta
+Author - miss shreya gupta
